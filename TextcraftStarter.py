@@ -402,7 +402,7 @@ def fight():
     ''')
 
   #print your own animated win message!
-  winMessage= "\nAfter a long battle and many casualities, you slay the endermen and protect the villagers!"
+  winMessage= "\nAfter a long battle and many casualities, you slay the skeletons and protect the villagers!"
   ________________________ #TODO
 
   # what method do we need to call to win the game?
